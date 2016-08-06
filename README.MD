@@ -12,5 +12,9 @@ git add -A .
 ```
 git add -A <tenfile.abc>
 ```
+''
 
+C
+
+Code cua Khoa
 
