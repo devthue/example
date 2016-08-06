@@ -14,7 +14,13 @@ git add -A <tenfile.abc>
 ```
 ''
 
+<<<<<<< Updated upstream
 C
 
 Code cua Khoa
 
+=======
+```
+Code cua Bang
+````
+>>>>>>> Stashed changes
